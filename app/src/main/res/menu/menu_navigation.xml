@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nhahang"
+
+            android:title="Nhà hàng" />
+        <item
+            android:id="@+id/lichsu"
+
+            android:title="Lịch sử" />
+        <item
+            android:id="@+id/trogiup"
+
+            android:title="Sửa thông tin" />
+        <item
+            android:id="@+id/caidat"
+
+            android:title="Cài đặt" />
+    </group>
+
+
+</menu>
